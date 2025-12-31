@@ -2,7 +2,7 @@
 
 **Excel Data Analysis Project by Ajani Taiwo Dorcas**
 
-![Vrinda Store Dashboard](./woman-in-store.jpg))
+![Vrinda Store Dashboard](./woman-in-store.jpeg)
 
 ## 📘 Project Overview
 
